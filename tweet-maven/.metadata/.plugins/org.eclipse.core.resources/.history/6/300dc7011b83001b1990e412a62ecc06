@@ -1,0 +1,9 @@
+package com.tweetapp.service;
+
+public class TweetService {
+
+	public TweetService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

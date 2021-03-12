@@ -1,0 +1,48 @@
+/**
+ * 
+ */
+package com.tweetapp.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.Scanner;
+
+import com.tweetapp.model.User;
+import com.tweetapp.util.DBUtil;
+
+/**
+ * @author User
+ *
+ */
+public class UserDao {
+	
+	public void  registerUser(User user) {
+		PreparedStatement preparedStatement = null;
+		Connection conn = DBUtil.createNewDBconnection();
+		String insertQueryStatement = "INSERT  INTO  user(username,firstname,lastname,password,gender,isloggedin)  VALUES  (?,?,?,?,?,?)";
+		try {
+			preparedStatement=conn.prepareStatement(insertQueryStatement);
+			preparedStatement.setString(1, user.getUsername());
+			preparedStatement.setString(2, user.getFirstnme());
+			preparedStatement.setString(3, user.getLastname());
+			preparedStatement.setString(4, user.getPassword());
+			preparedStatement.setString(5, user.getGender());
+			preparedStatement.setBoolean(6, user.isIsloggedin());
+		
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			System.out.print(e);
+		}
+		
+		
+			
+			
+			
+	
+		
+	}
+
+}

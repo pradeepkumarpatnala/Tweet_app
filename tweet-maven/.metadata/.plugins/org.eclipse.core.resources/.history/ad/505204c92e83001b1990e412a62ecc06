@@ -1,0 +1,9 @@
+package com.tweetapp.dao;
+
+public class TweetDao {
+
+	public TweetDao() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

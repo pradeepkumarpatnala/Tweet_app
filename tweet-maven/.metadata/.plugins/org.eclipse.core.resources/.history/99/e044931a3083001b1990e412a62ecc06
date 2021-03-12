@@ -1,0 +1,11 @@
+package com.tweetapp.dao;
+
+import com.tweetapp.model.Tweet;
+
+public class TweetDao {
+
+	public void postTweetInDb(Tweet tweet) {
+		
+		
+	}
+}

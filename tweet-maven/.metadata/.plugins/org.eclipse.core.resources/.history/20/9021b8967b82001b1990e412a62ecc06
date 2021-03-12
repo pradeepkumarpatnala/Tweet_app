@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package com.tweetapp.dao;
+
+import java.sql.Connection;
+import java.util.Scanner;
+
+import com.tweetapp.model.User;
+import com.tweetapp.util.DBUtil;
+
+/**
+ * @author User
+ *
+ */
+public class UserDao {
+	
+	public void  registerUser(User user) {
+		Connection conn = DBUtil.createNewDBconnection();
+		System.out.print(conn);
+			
+			
+			
+	
+		
+	}
+
+}

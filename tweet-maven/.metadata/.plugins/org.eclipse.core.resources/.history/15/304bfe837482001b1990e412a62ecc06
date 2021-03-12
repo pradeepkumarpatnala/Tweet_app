@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.tweetapp.dao;
+
+import java.util.Scanner;
+
+import com.tweetapp.model.User;
+
+/**
+ * @author User
+ *
+ */
+public class UserDao {
+	Scanner in =new Scanner(System.in);
+	public void  registerUser() {
+		User user=new User();
+		System.out.println("");
+	}
+
+}
