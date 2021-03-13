@@ -866,3 +866,323 @@
 2021-03-12 18:30:04,441 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\tweet-maven\tweet-app\src\main\resources
 2021-03-12 18:30:04,442 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-03-12 18:30:04,442 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:02:02,835 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-12 19:05:30,866 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:05:30,867 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:05:30,871 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:05:30,871 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:10:13,293 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:10:13,293 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:10:13,300 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:10:13,300 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:10:46,030 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:10:46,030 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:10:46,033 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:10:46,033 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:27:43,793 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:27:43,794 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:27:43,795 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:27:43,795 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:28:47,752 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:28:47,752 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:28:47,753 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:28:47,754 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:33:54,532 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:33:54,533 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:33:54,534 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:33:54,535 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:34:33,334 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:34:33,334 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:34:33,336 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:34:33,336 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:44:08,779 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:44:08,779 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:44:08,783 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:44:08,784 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:44:46,031 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:44:46,031 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:44:46,032 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:44:46,033 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:46:19,794 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:46:19,794 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:46:19,795 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:46:19,796 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:48:37,516 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:48:37,516 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:48:37,518 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:48:37,518 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:49:46,641 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:49:46,642 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:49:46,644 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:49:46,653 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:49:59,820 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:49:59,820 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:49:59,828 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:49:59,828 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:50:34,753 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:50:34,754 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:50:34,758 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:50:34,758 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:51:55,174 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:51:55,174 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:51:55,176 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:51:55,176 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 19:52:54,787 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:52:54,788 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 19:52:54,791 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 19:52:54,792 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 20:07:10,785 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:07:10,786 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 20:07:10,787 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:07:10,788 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 20:08:52,212 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:08:52,212 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 20:08:52,215 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:08:52,236 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 20:09:25,220 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:09:25,220 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 20:09:25,221 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:09:25,222 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 20:15:14,874 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:15:14,874 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 20:15:14,875 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:15:14,876 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 20:15:27,634 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:15:27,634 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 20:15:27,640 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:15:27,650 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 20:16:06,953 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:16:06,954 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 20:16:06,955 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:16:06,955 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 20:17:49,645 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:17:49,645 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 20:17:49,647 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:17:49,647 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-12 20:19:29,696 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:19:29,697 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-12 20:19:29,698 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-12 20:19:29,698 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 12:17:53,666 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-13 12:27:31,020 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 12:27:31,021 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 12:27:31,023 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 12:27:31,023 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 12:27:55,164 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 12:27:55,164 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 12:27:55,174 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 12:27:55,174 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 12:59:18,018 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 12:59:18,018 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 12:59:18,029 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 12:59:18,029 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 12:59:34,722 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 12:59:34,722 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 12:59:34,724 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 12:59:34,724 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:02:31,393 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:02:31,393 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:02:31,395 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:02:31,395 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:05:14,576 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:05:14,576 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:05:14,577 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:05:14,578 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:08:50,764 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:08:50,765 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:08:50,766 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:08:50,766 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:12:17,461 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:12:17,461 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:12:17,465 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:12:17,467 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:16:13,259 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:16:13,259 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:16:13,261 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:16:13,261 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:17:50,209 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:17:50,210 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:17:50,213 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:17:50,214 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:54:32,709 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:54:32,709 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:54:32,711 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:54:32,712 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:55:55,105 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:55:55,106 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:55:55,107 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:55:55,107 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 13:56:28,554 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:56:28,554 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 13:56:28,561 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 13:56:28,561 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:00:26,480 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:00:26,503 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:00:26,510 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:00:26,510 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:00:53,131 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:00:53,131 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:00:53,132 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:00:53,133 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:02:23,972 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:02:23,973 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:02:23,980 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:02:23,980 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:05:11,447 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:05:11,448 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:05:11,449 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:05:11,449 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:05:37,651 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:05:37,651 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:05:37,653 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:05:37,654 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:07:22,897 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:07:22,897 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:07:22,898 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:07:22,899 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:08:16,726 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:08:16,727 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:08:16,728 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:08:16,728 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:08:25,611 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:08:25,612 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:08:25,619 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:08:25,619 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:08:52,927 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:08:52,928 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:08:52,929 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:08:52,930 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:11:19,835 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:11:19,836 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:11:19,839 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:11:19,840 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:13:19,029 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:13:19,030 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:13:19,033 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:13:19,035 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:19:05,523 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:19:05,524 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:19:05,525 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:19:05,525 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:19:20,250 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:19:20,250 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:19:20,251 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:19:20,251 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:19:50,178 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:19:50,179 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:19:50,180 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:19:50,180 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:28:23,358 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:28:23,359 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:28:23,363 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:28:23,365 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:32:33,355 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:32:33,356 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:32:33,359 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:32:33,359 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:32:42,407 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:32:42,408 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:32:42,409 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:32:42,409 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:34:09,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:34:09,246 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:34:09,247 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:34:09,247 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:38:15,192 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:38:15,193 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:38:15,194 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:38:15,195 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:42:36,137 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:42:36,137 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:42:36,138 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:42:36,139 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:44:23,295 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:44:23,296 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:44:23,297 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:44:23,297 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:45:35,297 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:45:35,298 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:45:35,299 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:45:35,299 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:52:03,007 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:52:03,008 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:52:03,009 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:52:03,010 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:52:17,820 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:52:17,825 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:52:17,826 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:52:17,826 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:53:35,919 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:53:35,919 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:53:35,920 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:53:35,921 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:53:55,807 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:53:55,808 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:53:55,809 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:53:55,809 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 14:56:53,672 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:56:53,672 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 14:56:53,673 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 14:56:53,674 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:06:31,864 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:06:31,865 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:06:31,866 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:06:31,866 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:07:34,080 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:07:34,080 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:07:34,086 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:07:34,089 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:21:18,140 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:21:18,140 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:21:18,141 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:21:18,141 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:21:56,962 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:21:56,963 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:21:56,964 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:21:56,964 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:23:25,995 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:23:25,996 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:23:25,997 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:23:25,997 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:26:36,476 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:26:36,476 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:26:36,477 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:26:36,477 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:33:15,359 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:33:15,360 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:33:15,368 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:33:15,369 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:41:50,039 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:41:50,040 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:41:50,041 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:41:50,041 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:43:38,189 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:43:38,189 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:43:38,194 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:43:38,194 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:43:52,018 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:43:52,018 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:43:52,019 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:43:52,020 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:44:03,955 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:44:03,956 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:44:03,957 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:44:03,957 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:49:02,431 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:49:02,431 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:49:02,432 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:49:02,432 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:53:52,468 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:53:52,469 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:53:52,470 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:53:52,470 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:57:02,283 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:57:02,284 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:57:02,285 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:57:02,285 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:57:26,733 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:57:26,733 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
+2021-03-13 15:57:26,735 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:57:26,735 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\test\resources
+2021-03-13 15:59:01,517 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-13 15:59:01,518 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Application\Tweet_app\tweet-maven\tweet-app\src\main\resources
