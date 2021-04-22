@@ -1,9 +1,0 @@
-package com.tweetapp.model;
-
-public class Tweet {
-
-	public Tweet() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
