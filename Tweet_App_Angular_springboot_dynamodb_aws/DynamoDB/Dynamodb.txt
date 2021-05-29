@@ -1,0 +1,12 @@
+open aws console->services->dynamodb->create two tables
+
+1.tweet
+2.user
+
+create a user->assign that user to the group->add the required polices to that group for database access
+
+
+Note:
+
+This app code is deployed in aws,if we want to run in loacal change the ip address to local host(8087) in front end baseurls in services which will connect to local backend
+for the spring boot change the credentials in application.properties accordingly with your aws db credentials
